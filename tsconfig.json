@@ -4,6 +4,6 @@
         "module": "commonjs",       // Utiliza import e export
         "target": "es2022",         // Versão do ecomoScripti o java script será gerado
         "esModuleInterop": true,    // 
-        "allowJs": true             // 
+        "allowJs": true,            // 
     }
 }
