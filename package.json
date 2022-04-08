@@ -1,0 +1,20 @@
+{
+  "name": "clean-architecture",
+  "version": "1.0.0",
+  "description": "Repositório criado para o desenvolvimento durante o curso Clean Architecture - Rodrigo Manguinho",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evertonslv/clean-architecture.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evertonslv/clean-architecture/issues"
+  },
+  "homepage": "https://github.com/Evertonslv/clean-architecture#readme"
+}
